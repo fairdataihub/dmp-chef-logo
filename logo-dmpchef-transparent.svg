@@ -3,7 +3,7 @@
 <line x1="492" y1="393" x2="562" y2="393" stroke="#4AA3EA" stroke-width="30" stroke-linecap="round"/>
 <line x1="446.907" y1="480.907" x2="566.904" y2="480.162" stroke="#4AA3EA" stroke-width="30" stroke-linecap="round"/>
 <line x1="445.907" y1="568.907" x2="565.904" y2="568.162" stroke="#4AA3EA" stroke-width="30" stroke-linecap="round"/>
-<path d="M441 284C427.193 284 416 295.193 416 309C416 322.807 427.193 334 441 334V309V284ZM441 309V334H561V309V284H441V309Z" fill="#17235B"/>
+<path d="M442 284C428.193 284 417 295.193 417 309C417 322.807 428.193 334 442 334V309V284ZM442 309V334H565V309V284H442V309Z" fill="#17235B"/>
 <line x1="634" y1="381" x2="634" y2="587" stroke="#17235B" stroke-width="50"/>
 <path d="M559 309C578.891 309 597.968 316.902 612.033 330.967C626.098 345.032 634 364.109 634 384" stroke="#17235B" stroke-width="50"/>
 <line x1="120" y1="659" x2="316" y2="659" stroke="#17235B" stroke-width="50" stroke-linecap="round"/>
